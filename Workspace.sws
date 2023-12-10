@@ -4,8 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{BA4301F4-A633-47C2-86E2-A3B52D506FFF}" Name="schoolms" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="schoolms.cdm"/>
-		<Model Expanded="Yes" ID="{09D5614D-9F7E-42C4-B41B-76CC0B522D7B}" Name="schoolms" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="schoolms.pdm"/>
+		<Model Expanded="Yes" ID="{FE4EF32B-27E2-4AEF-AF49-93813775CA5C}" Name="rbac" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="rbac.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
