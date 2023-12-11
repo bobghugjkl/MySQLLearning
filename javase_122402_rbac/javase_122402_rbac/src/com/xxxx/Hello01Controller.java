@@ -15,7 +15,7 @@ public class Hello01Controller {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
-        Q10UpdateRolePower();
+        Q02InsertUser();
     }
 
     /**
